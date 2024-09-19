@@ -1,2 +1,4 @@
 setting.py
 test.py
+/__pycache__
+/migrations
