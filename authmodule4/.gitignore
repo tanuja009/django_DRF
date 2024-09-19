@@ -1,4 +1,6 @@
-setting.py
+settings.py
 test.py
 /__pycache__
 /migrations
+__init__.py
+0001_initial.py
