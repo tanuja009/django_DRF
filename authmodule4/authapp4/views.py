@@ -11,3 +11,5 @@ class MyModelViewSet(viewsets.ModelViewSet):
     queryset = mymodel.objects.all()
     serializer_class = mymodelserializer  # Specify the serializer class here
 
+
+

@@ -10,3 +10,4 @@ class mymodelserializer(serializers.ModelSerializer):
       if len(value) != 10:
         raise serializers.ValidationError("contact number be 10 digits")
       return value
+    
